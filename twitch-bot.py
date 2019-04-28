@@ -6,7 +6,7 @@ import base64
 HOST = "irc.twitch.tv"
 NICK = "ninebot"
 PORT = 6667
-PASS = "oauth:ru4qljjkm2owzi2vog6tsxlsh0kvzc"
+PASS = "oauth:"
 readbuffer = ""
 MODT = False
 
